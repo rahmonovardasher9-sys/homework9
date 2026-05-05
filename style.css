@@ -29,13 +29,71 @@
   gap: 20px;
   align-items: center;
 }
-.t{
-    font-size: 13px;
-    font-weight: 100;
+.t {
+  font-size: 13px;
+  font-weight: 100;
 }
-.u{
-    display: flex;align-items: center;gap: 20px;
+.u {
+  display: flex;
+  align-items: center;
+  gap: 20px;
 }
-.i{
-    border: none;
+.i {
+  border: none;
+}
+.o {
+  background-color: rgba(232, 232, 232, 1);
+  padding: 200px 100px;
+  position: relative;
+  display: flex;
+  align-items: center;
+}
+.p {
+  font-size: 48px;
+  font-weight: 700;
+}
+.a {
+  font-size: 18px;
+  color: rgba(29, 28, 28, 0.7);
+  font-weight: 100;
+  margin-bottom: 40px;
+}
+.s {
+  font-size: 13px;
+  font-weight: 500;
+  padding: 10px;
+  width: 400px;
+  background-color: rgb(241, 241, 241);
+  border: 1px solid white;
+  border-radius: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.d {
+  width: 15px;
+  background-color: rgba(157, 200, 44, 1);
+  padding: 10px;
+  border-radius: 50%;
+}
+.f {
+  position: absolute;
+  left: 20px;
+  width: 30px;
+}
+.g{
+    position: absolute;
+    width: 30px;
+    right: 20px;
+}
+.h{
+    position: absolute;
+    right: 0px;
+    bottom: -200px;
+    width: 650px;
+}
+.j{
+    position: absolute;
+    top: 0px;
+    right: 200px;
 }
